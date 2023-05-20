@@ -22,3 +22,6 @@ Run tmux in terminal and install plugins
 	
 	c-a + I
 
+## 3 Extra Tmux Plugins
+Check out this repository for cool tmux plugins 
+https://github.com/tmux-plugins/list
