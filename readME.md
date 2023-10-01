@@ -14,13 +14,13 @@ Clone the repository
 
 Create a link file in Home ~/ directory.!
 
-	ln -s /home/<path_to_tmux_folder>/tmux_config/.tmux.conf .tmux.conf
+	ln -s ~/<path_to_tmux_folder>/tmux_config/.tmux.conf ~/.tmux.conf
 
 Run tmux in terminal and install plugins
 
 	tmux
 	
-	c-a + I
+	<C-a >+ I
 
 ## 3 Extra Tmux Plugins
 Check out this repository for cool tmux plugins 
