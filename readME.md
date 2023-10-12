@@ -1,6 +1,6 @@
 # TMUX-CONFIG FILE
 
-## 1. Install TMP
+## 1. Install TPM
 First we need to install tmux-plugin manager:
 
 	git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
